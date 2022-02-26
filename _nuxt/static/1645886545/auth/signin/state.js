@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002FappNextBits\u002F_nuxt\u002Fstatic\u002F1645886545",layout:"signin",error:a,state:{user:a},serverRendered:true,routePath:"\u002Fauth\u002Fsignin",config:{_app:{basePath:"\u002FappNextBits\u002F",assetsPath:"\u002FappNextBits\u002F_nuxt\u002F",cdnURL:a}}}}(null));
